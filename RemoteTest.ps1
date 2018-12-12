@@ -6,7 +6,7 @@ param(
 )
 $ErrorActionPreference = "Stop"
 
-$projectFile = "MusicStore.Test\MusicStore.Test.csproj"
+$projectFile = "SCJ.Booking.Test\SCJ.Booking.Test.csproj"
 
 Write-Host "Test server:  $server"
 Write-Host "Test folder:  $serverFolder"

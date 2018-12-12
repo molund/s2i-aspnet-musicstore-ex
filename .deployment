@@ -1,2 +1,2 @@
 +[config]
-+project = src/MusicStore/MusicStore.csproj
++project = src/SCJ.Booking/SCJ.Booking.csproj
